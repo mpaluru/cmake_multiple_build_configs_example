@@ -8,9 +8,9 @@ http://stackoverflow.com/questions/29971026/generator-expression-for-install-com
 Steps to test this project:
 ---------------------------
 
-cd /tmp
-git clone https://github.com/mpaluru/cmake_multiple_build_configs_example.git 
-mkdir /tmp/top_build_dir
-cd /tmp/top_build_dir
-cmake /tmp/cmake_multiple_build_configs_example
-make
+    cd /tmp
+    git clone https://github.com/mpaluru/cmake_multiple_build_configs_example.git 
+    mkdir /tmp/top_build_dir
+    cd /tmp/top_build_dir
+    cmake /tmp/cmake_multiple_build_configs_example
+    make
